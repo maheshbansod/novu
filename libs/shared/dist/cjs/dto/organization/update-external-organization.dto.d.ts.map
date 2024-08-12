@@ -1,0 +1,1 @@
+{"version":3,"file":"update-external-organization.dto.d.ts","sourceRoot":"","sources":["../../../../src/dto/organization/update-external-organization.dto.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,YAAY,EAAE,MAAM,aAAa,CAAC;AAG3C,qBAAa,6BAA6B;IAGxC,QAAQ,CAAC,EAAE,YAAY,CAAC;IAIxB,MAAM,CAAC,EAAE,MAAM,CAAC;IAGhB,QAAQ,CAAC,EAAE,MAAM,EAAE,CAAC;IAGpB,aAAa,CAAC,EAAE,MAAM,EAAE,CAAC;CAC1B"}

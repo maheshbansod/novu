@@ -1,0 +1,10 @@
+export var OrderDirectionEnum;
+(function (OrderDirectionEnum) {
+    OrderDirectionEnum[OrderDirectionEnum["ASC"] = 1] = "ASC";
+    OrderDirectionEnum[OrderDirectionEnum["DESC"] = -1] = "DESC";
+})(OrderDirectionEnum || (OrderDirectionEnum = {}));
+export var OrderByEnum;
+(function (OrderByEnum) {
+    OrderByEnum["ASC"] = "ASC";
+    OrderByEnum["DESC"] = "DESC";
+})(OrderByEnum || (OrderByEnum = {}));

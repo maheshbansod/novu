@@ -1,0 +1,37 @@
+{
+  "name": "@novu/notification-center-angular",
+  "version": "2.0.0-canary.0",
+  "peerDependencies": {
+    "@angular/common": "^15.0.0 || ^16.0.0 || ^17.0.0",
+    "@angular/core": "^15.0.0 || ^16.0.0 || ^17.0.0",
+    "@angular/platform-browser": "^15.0.0 || ^16.0.0 || ^17.0.0",
+    "@angular/platform-browser-dynamic": "^15.0.0 || ^16.0.0 || ^17.0.0"
+  },
+  "dependencies": {
+    "@novu/notification-center": "workspace:*",
+    "@types/react": "^18.3.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tslib": "^2.3.0"
+  },
+  "files": [
+    "dist/esm2022",
+    "dist/fesm2022",
+    "dist/lib",
+    "dist/index.d.ts"
+  ],
+  "module": "fesm2022/novu-notification-center-angular.mjs",
+  "typings": "index.d.ts",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./index.d.ts",
+      "esm2022": "./esm2022/novu-notification-center-angular.mjs",
+      "esm": "./esm2022/novu-notification-center-angular.mjs",
+      "default": "./fesm2022/novu-notification-center-angular.mjs"
+    }
+  },
+  "sideEffects": false
+}

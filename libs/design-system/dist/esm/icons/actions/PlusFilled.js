@@ -1,0 +1,5 @@
+import { jsx as _jsx, jsxs as _jsxs } from "react/jsx-runtime";
+export function PlusFilled(props) {
+    return (_jsxs("svg", Object.assign({ xmlns: "http://www.w3.org/2000/svg", width: "24", height: "24", viewBox: "0 0 24 24", fill: "none" }, props, { children: [_jsx("rect", { width: "24", height: "24", rx: "4", fill: "url(#paint0_linear_375_800)" }), _jsx("path", { d: "M7.19995 12H16.8M12 7.20001V16.8", stroke: "white", strokeWidth: "2", strokeLinecap: "round", strokeLinejoin: "round" }), _jsx("defs", { children: _jsxs("linearGradient", Object.assign({ id: "paint0_linear_375_800", x1: "0", y1: "12", x2: "24", y2: "12", gradientUnits: "userSpaceOnUse" }, { children: [_jsx("stop", { stopColor: "#DD2476" }), _jsx("stop", { offset: "1", stopColor: "#FF512F" })] })) })] })));
+}
+//# sourceMappingURL=PlusFilled.js.map

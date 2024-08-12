@@ -1,0 +1,1 @@
+{"version":3,"file":"ArrowButton.d.ts","sourceRoot":"","sources":["../../../src/arrow-button/ArrowButton.tsx"],"names":[],"mappings":";AAMA,wBAAgB,WAAW,CAAC,EAC1B,KAAK,EACL,OAAO,EACP,OAAc,EACd,MAAM,GACP,EAAE;IACD,KAAK,EAAE,MAAM,CAAC;IACd,OAAO,CAAC,EAAE,KAAK,CAAC,iBAAiB,CAAC,cAAc,CAAC,CAAC;IAClD,OAAO,CAAC,EAAE,OAAO,CAAC;IAClB,MAAM,CAAC,EAAE,MAAM,CAAC;CACjB,2CAeA"}

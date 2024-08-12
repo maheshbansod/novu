@@ -1,0 +1,7 @@
+import { ChannelTypeEnum } from '../channel';
+export var WorkflowTypeEnum;
+(function (WorkflowTypeEnum) {
+    WorkflowTypeEnum["REGULAR"] = "REGULAR";
+    WorkflowTypeEnum["ECHO"] = "ECHO";
+    WorkflowTypeEnum["BRIDGE"] = "BRIDGE";
+})(WorkflowTypeEnum || (WorkflowTypeEnum = {}));

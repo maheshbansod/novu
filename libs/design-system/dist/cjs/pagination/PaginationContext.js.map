@@ -1,0 +1,1 @@
+{"version":3,"file":"PaginationContext.js","sourceRoot":"","sources":["../../../src/pagination/PaginationContext.tsx"],"names":[],"mappings":";;;AAAA,iCAAsC;AAWtC,MAAM,0BAA0B,GAAuB;IACrD,cAAc,EAAE,CAAC;IACjB,cAAc,EAAE,CAAC;IACjB,iBAAiB,EAAE,CAAC;IACpB,QAAQ,EAAE,EAAE;IACZ,YAAY,EAAE,GAAG,EAAE,GAAE,CAAC;CACvB,CAAC;AACW,QAAA,iBAAiB,GAAG,IAAA,qBAAa,EAAqB,0BAA0B,CAAC,CAAC"}

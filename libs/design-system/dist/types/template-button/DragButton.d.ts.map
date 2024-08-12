@@ -1,0 +1,1 @@
+{"version":3,"file":"DragButton.d.ts","sourceRoot":"","sources":["../../../src/template-button/DragButton.tsx"],"names":[],"mappings":"AAEA,OAAO,KAAmB,MAAM,OAAO,CAAC;AAMxC,UAAU,gBAAgB;IACxB,IAAI,EAAE,KAAK,CAAC,EAAE,CAAC,GAAG,CAAC,CAAC;IACpB,WAAW,EAAE,MAAM,CAAC;CACrB;AAED,wBAAgB,UAAU,CAAC,EAAE,WAAW,EAAE,IAAI,EAAE,EAAE,gBAAgB,2CA0CjE"}

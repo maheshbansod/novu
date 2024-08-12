@@ -1,0 +1,24 @@
+import { ApiHeaderOptions } from '@nestjs/swagger';
+import { WithRequired } from './utils.types';
+export declare enum HttpRequestHeaderKeysEnum {
+    AUTHORIZATION = "Authorization",
+    USER_AGENT = "User-Agent",
+    CONTENT_TYPE = "Content-Type",
+    SENTRY_TRACE = "Sentry-Trace",
+    NOVU_ENVIRONMENT_ID = "Novu-Environment-Id",
+    NOVU_API_VERSION = "Novu-API-Version"
+}
+export declare enum HttpResponseHeaderKeysEnum {
+    CONTENT_TYPE = "Content-Type",
+    RATELIMIT_REMAINING = "RateLimit-Remaining",
+    RATELIMIT_LIMIT = "RateLimit-Limit",
+    RATELIMIT_RESET = "RateLimit-Reset",
+    RATELIMIT_POLICY = "RateLimit-Policy",
+    RETRY_AFTER = "Retry-After",
+    IDEMPOTENCY_KEY = "Idempotency-Key",
+    IDEMPOTENCY_REPLAY = "Idempotency-Replay",
+    LINK = "Link"
+}
+export type HeaderObject = WithRequired<Omit<ApiHeaderOptions, 'name'>, 'required' | 'description' | 'schema' | 'example'>;
+export type HeaderObjects = Record<HttpResponseHeaderKeysEnum, HeaderObject>;
+//# sourceMappingURL=headers.types.d.ts.map

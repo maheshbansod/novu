@@ -1,0 +1,1 @@
+{"version":3,"file":"inbox-service-singleton.d.ts","sourceRoot":"","sources":["../../../src/utils/inbox-service-singleton.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,mBAAmB,EAAE,MAAM,QAAQ,CAAC;AAE3D,qBAAa,qBAAqB;;IAGhC,MAAM,CAAC,WAAW,CAAC,OAAO,CAAC,EAAE,mBAAmB,GAAG,YAAY;CAQhE"}

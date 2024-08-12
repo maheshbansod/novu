@@ -1,0 +1,1 @@
+{"version":3,"file":"NewMessagesCta.d.ts","sourceRoot":"","sources":["../../../../../src/ui/components/Notification/NewMessagesCta.tsx"],"names":[],"mappings":"AAAA,OAAO,EAAE,GAAG,EAAE,SAAS,EAAoC,MAAM,UAAU,CAAC;AAK5E,eAAO,MAAM,cAAc,EAAE,SAAS,CAAC;IACrC,OAAO,CAAC,EAAE,GAAG,CAAC,iBAAiB,CAAC,iBAAiB,EAAE,UAAU,CAAC,CAAC;IAC/D,KAAK,EAAE,MAAM,CAAC;CACf,CAiCA,CAAC"}

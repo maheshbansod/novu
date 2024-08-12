@@ -1,0 +1,1 @@
+{"version":3,"file":"ExternalElementMounter.d.ts","sourceRoot":"","sources":["../../../../src/ui/components/ExternalElementMounter.tsx"],"names":[],"mappings":"AAAA,OAAO,EAAsB,WAAW,EAAE,MAAM,UAAU,CAAC;AAE3D,KAAK,2BAA2B,GAAG,WAAW,CAAC;IAC7C,KAAK,EAAE,CAAC,EAAE,EAAE,cAAc,KAAK,MAAM,IAAI,CAAC;CAC3C,CAAC,CAAC;AAEH,eAAO,MAAM,sBAAsB,uBAAwB,2BAA2B,mCAmBrF,CAAC"}

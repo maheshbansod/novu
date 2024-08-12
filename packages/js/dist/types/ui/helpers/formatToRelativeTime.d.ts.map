@@ -1,0 +1,1 @@
+{"version":3,"file":"formatToRelativeTime.d.ts","sourceRoot":"","sources":["../../../../src/ui/helpers/formatToRelativeTime.ts"],"names":[],"mappings":"AAUA,wBAAgB,oBAAoB,CAAC,EACnC,QAAQ,EACR,MAAuB,EACvB,MAAmB,GACpB,EAAE;IACD,QAAQ,EAAE,IAAI,CAAC;IACf,MAAM,CAAC,EAAE,MAAM,CAAC;IAChB,MAAM,CAAC,EAAE,IAAI,CAAC;CACf,UA4BA"}

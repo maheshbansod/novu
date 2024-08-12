@@ -1,0 +1,1 @@
+{"version":3,"file":"semanticOpacity.tokens.js","sourceRoot":"","sources":["../../src/tokens/semanticOpacity.tokens.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,oBAAoB,EAAE,MAAM,eAAe,CAAC;AAErD,MAAM,CAAC,MAAM,uBAAuB,GAAG,oBAAoB,CAAC,OAAO,CAAC;IAClE,QAAQ,EAAE;QACR,KAAK,EAAE,cAAc;QACrB,IAAI,EAAE,SAAS;KAChB;IACD,KAAK,EAAE;QACL,KAAK,EAAE,cAAc;QACrB,IAAI,EAAE,SAAS;KAChB;CACF,CAAC,CAAC"}

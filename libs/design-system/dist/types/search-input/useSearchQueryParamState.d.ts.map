@@ -1,0 +1,1 @@
+{"version":3,"file":"useSearchQueryParamState.d.ts","sourceRoot":"","sources":["../../../src/search-input/useSearchQueryParamState.ts"],"names":[],"mappings":"AAWA,MAAM,WAAW,gCAAgC;IAC/C,sBAAsB,CAAC,EAAE,OAAO,CAAC;IACjC,uBAAuB,CAAC,EAAE,MAAM,CAAC;IACjC,2BAA2B,CAAC,EAAE,MAAM,CAAC;CACtC;AAED,eAAO,MAAM,wBAAwB,sFAIlC,gCAAgC;;qCAOnB,MAAM;CAwBrB,CAAC"}

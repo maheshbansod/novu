@@ -1,0 +1,1 @@
+{"version":3,"file":"log.repository.d.ts","sourceRoot":"","sources":["../../../src/repositories/log/log.repository.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,oBAAoB,CAAC;AACpD,OAAO,KAAK,EAAE,kBAAkB,EAAE,MAAM,qBAAqB,CAAC;AAC9D,OAAO,EAAE,SAAS,EAAE,UAAU,EAAE,MAAM,cAAc,CAAC;AAGrD,qBAAa,aAAc,SAAQ,cAAc,CAAC,UAAU,EAAE,SAAS,EAAE,kBAAkB,CAAC;;CAI3F"}

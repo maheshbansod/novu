@@ -1,0 +1,39 @@
+import { StepTypeEnum, IMessageCTA, IActor, IMessageTemplate, EnvironmentId, OrganizationId, MessageTemplateContentType } from '@novu/shared';
+import { JSONSchema } from 'json-schema-to-ts';
+import { IEmailBlock, ITemplateVariable } from './types';
+import type { ChangePropsValueType } from '../../types/helpers';
+export declare class MessageTemplateEntity implements IMessageTemplate {
+    _id?: string;
+    _environmentId: EnvironmentId;
+    _organizationId: OrganizationId;
+    _creatorId: string;
+    _layoutId?: string | null;
+    type: StepTypeEnum;
+    variables?: ITemplateVariable[];
+    content: string | IEmailBlock[];
+    contentType?: MessageTemplateContentType;
+    active?: boolean;
+    subject?: string;
+    title?: string;
+    name?: string;
+    stepId?: string;
+    preheader?: string;
+    senderName?: string;
+    _feedId?: string;
+    cta?: IMessageCTA;
+    _parentId?: string;
+    actor?: IActor;
+    deleted?: boolean;
+    inputs?: {
+        schema: JSONSchema;
+    };
+    controls?: {
+        schema: JSONSchema;
+    };
+    output?: {
+        schema: JSONSchema;
+    };
+    code?: string;
+}
+export type MessageTemplateDBModel = ChangePropsValueType<MessageTemplateEntity, '_environmentId' | '_organizationId' | '_creatorId' | '_layoutId' | '_feedId' | '_parentId'>;
+//# sourceMappingURL=message-template.entity.d.ts.map

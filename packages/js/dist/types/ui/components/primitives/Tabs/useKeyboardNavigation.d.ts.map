@@ -1,0 +1,1 @@
+{"version":3,"file":"useKeyboardNavigation.d.ts","sourceRoot":"","sources":["../../../../../../src/ui/components/primitives/Tabs/useKeyboardNavigation.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAyC,MAAM,EAAE,MAAM,UAAU,CAAC;AAEnF,eAAO,MAAM,qBAAqB;eAKrB,SAAS,MAAM,CAAC;kBACb,OAAO,MAAM,CAAC;mBACb,SAAS,cAAc,GAAG,SAAS,CAAC;UAmDpD,CAAC"}

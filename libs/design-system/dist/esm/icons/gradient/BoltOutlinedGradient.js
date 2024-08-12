@@ -1,0 +1,5 @@
+import { jsx as _jsx, jsxs as _jsxs } from "react/jsx-runtime";
+export function BoltOutlinedGradient(props) {
+    return (_jsxs("svg", Object.assign({ xmlns: "http://www.w3.org/2000/svg", width: "32", height: "32", fill: "none", viewBox: "0 0 32 32" }, props, { children: [_jsx("path", { stroke: "url(#paint0_linear_244_7514)", strokeLinecap: "round", strokeLinejoin: "round", strokeWidth: "2", d: "M17.5 3.667l-12 14.4h10.8l-1.2 9.6 12-14.4H16.3l1.2-9.6z" }), _jsx("defs", { children: _jsxs("linearGradient", Object.assign({ id: "paint0_linear_244_7514", x1: "5.5", x2: "27.1", y1: "15.667", y2: "15.667", gradientUnits: "userSpaceOnUse" }, { children: [_jsx("stop", { stopColor: "#DD2476" }), _jsx("stop", { offset: "1", stopColor: "#FF512F" })] })) })] })));
+}
+//# sourceMappingURL=BoltOutlinedGradient.js.map

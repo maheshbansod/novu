@@ -1,0 +1,2 @@
+export declare const LOADING_OVERLAY_RECIPE: import("@pandacss/dev").SlotRecipeConfig<string, import("@pandacss/dev").SlotRecipeVariantRecord<string>>;
+//# sourceMappingURL=loading-overlay.recipe.d.ts.map
